@@ -1,5 +1,4 @@
-{
-	"Statement": [
+{  "Statement": [
 	  {
 			"Action": [
 				"s3:GetObject",
